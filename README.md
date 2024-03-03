@@ -1,13 +1,14 @@
+
 <div align="center">
   <div> 
     <h1>🫲🏻 SONSODOCKJE 🫱🏻</h1>
-    <p>FE 개발자 취준생<br><del>그리고 <i>미디어 중독자</i></del></p>
+    <p>개발을 합시다.</p>
     <img src="https://static.wikia.nocookie.net/1d45d1a8-3e88-47e1-9e07-78f21f9d8ea7/scale-to-width/755" width="300px" alt="프로필 사진">
   </div>
   <br>
   <br>
   <div>
-    <h2>✨ 꿈꾸는 스택 목록 ✨</h2>
+    <h2>✨ 스택 목록 ✨</h2>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></br>
@@ -20,7 +21,10 @@
   <br>
   <div>
     <h2>✨ 프로젝트 ✨</h2>
-    만들어라.
+    <div>
+      <p>JS : TodoList </p>
+    <p>React : Minitter</p
+    </div>
   </div>
 
 
@@ -44,4 +48,3 @@
 
 
 </div>
-
