@@ -3,7 +3,7 @@
   <div> 
     <h1>🫲🏻 SONSODOCKJE 🫱🏻</h1>
     <p>개발을 합시다.</p>
-    <img src="https://static.wikia.nocookie.net/1d45d1a8-3e88-47e1-9e07-78f21f9d8ea7/scale-to-width/755" width="300px" alt="프로필 사진">
+
   </div>
   <br>
   <br>
