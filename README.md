@@ -2,8 +2,6 @@
 <div align="center">
   <div> 
     <h1>🙈</h1>
-    <p>머 할까?</p>
-
   </div>
   <br>
   <br>
